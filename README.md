@@ -21,4 +21,4 @@
 
 -#vapply() is similar to sapply(), but has a pre-specified type of return value.
 
--#Thank you!
+-#Thank you! 
